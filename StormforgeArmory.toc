@@ -1,0 +1,6 @@
+## Interface: 20502
+## Title: Stormforge Armory
+## Notes: ALT-click names in chat to open their Stormforge armory page (2.5.2)
+## Version: 1.0
+## Author: Minn
+StormforgeArmory.lua
